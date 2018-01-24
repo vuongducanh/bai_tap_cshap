@@ -1,0 +1,10 @@
+/home/ducanh/c#/songuyento/bin/Debug/netcoreapp2.0/songuyento.deps.json
+/home/ducanh/c#/songuyento/bin/Debug/netcoreapp2.0/songuyento.runtimeconfig.json
+/home/ducanh/c#/songuyento/bin/Debug/netcoreapp2.0/songuyento.runtimeconfig.dev.json
+/home/ducanh/c#/songuyento/bin/Debug/netcoreapp2.0/songuyento.dll
+/home/ducanh/c#/songuyento/bin/Debug/netcoreapp2.0/songuyento.pdb
+/home/ducanh/c#/songuyento/obj/Debug/netcoreapp2.0/songuyento.csproj.CoreCompileInputs.cache
+/home/ducanh/c#/songuyento/obj/Debug/netcoreapp2.0/songuyento.AssemblyInfoInputs.cache
+/home/ducanh/c#/songuyento/obj/Debug/netcoreapp2.0/songuyento.AssemblyInfo.cs
+/home/ducanh/c#/songuyento/obj/Debug/netcoreapp2.0/songuyento.dll
+/home/ducanh/c#/songuyento/obj/Debug/netcoreapp2.0/songuyento.pdb

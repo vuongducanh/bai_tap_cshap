@@ -1,0 +1,10 @@
+/home/ducanh/c#/container/bin/Debug/netcoreapp2.0/container.deps.json
+/home/ducanh/c#/container/bin/Debug/netcoreapp2.0/container.runtimeconfig.json
+/home/ducanh/c#/container/bin/Debug/netcoreapp2.0/container.runtimeconfig.dev.json
+/home/ducanh/c#/container/bin/Debug/netcoreapp2.0/container.dll
+/home/ducanh/c#/container/bin/Debug/netcoreapp2.0/container.pdb
+/home/ducanh/c#/container/obj/Debug/netcoreapp2.0/container.csproj.CoreCompileInputs.cache
+/home/ducanh/c#/container/obj/Debug/netcoreapp2.0/container.AssemblyInfoInputs.cache
+/home/ducanh/c#/container/obj/Debug/netcoreapp2.0/container.AssemblyInfo.cs
+/home/ducanh/c#/container/obj/Debug/netcoreapp2.0/container.dll
+/home/ducanh/c#/container/obj/Debug/netcoreapp2.0/container.pdb
